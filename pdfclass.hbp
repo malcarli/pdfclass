@@ -1,0 +1,15 @@
+ze_pdfclass.prg
+
+-w3
+-es2
+-m
+-n
+-beep
+-q
+
+-o${hb_addons}/josequintas/lib/${hb_plat}/${hb_comp}/${hb_name}
+
+pdfclass.hbc
+
+-hblib
+-hbx=${hb_addons}/josequintas/${hb_name}
